@@ -1,0 +1,219 @@
+C:\Users\alumno\source\repos\WebApi5953\bin\WebApi5953.dll.config
+C:\Users\alumno\source\repos\WebApi5953\bin\WebApi5953.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\WebApi5953.pdb
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\csc.exe
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\csc.exe.config
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\csc.rsp
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\csi.exe
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\csi.exe.config
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\csi.rsp
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.AppContext.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Console.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.IO.Compression.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Net.Http.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.ValueTuple.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\vbc.exe
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\vbc.exe.config
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\vbc.rsp
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno\source\repos\WebApi5953\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno\source\repos\WebApi5953\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\Newtonsoft.Json.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Net.Http.Formatting.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Web.Cors.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Web.Http.Cors.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Web.Http.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Web.Http.WebHost.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Web.Http.Cors.xml
+C:\Users\alumno\source\repos\WebApi5953\bin\Newtonsoft.Json.xml
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Net.Http.Formatting.xml
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Web.Http.xml
+C:\Users\alumno\source\repos\WebApi5953\bin\System.Web.Http.WebHost.xml
+C:\Users\alumno\source\repos\WebApi5953\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno\source\repos\WebApi5953\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\es\System.Web.Http.resources.dll
+C:\Users\alumno\source\repos\WebApi5953\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alumno\source\repos\WebApi5953\obj\Debug\WebApi5953.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\WebApi5953\obj\Debug\WebApi5953.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\WebApi5953\obj\Debug\WebApi5953.csproj.CopyComplete
+C:\Users\alumno\source\repos\WebApi5953\obj\Debug\WebApi5953.dll
+C:\Users\alumno\source\repos\WebApi5953\obj\Debug\WebApi5953.pdb
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\WebApi5953.dll.config
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\WebApi5953.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\WebApi5953.pdb
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\csc.exe
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\csc.exe.config
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\csc.rsp
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\csi.exe
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\csi.exe.config
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\csi.rsp
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.AppContext.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Collections.Immutable.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Console.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Globalization.Calendars.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.IO.Compression.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.IO.FileSystem.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Net.Http.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Net.Sockets.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Reflection.Metadata.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.ValueTuple.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Xml.XPath.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\vbc.exe
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\vbc.exe.config
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\vbc.rsp
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\VBCSCompiler.exe
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\roslyn\VBCSCompiler.exe.config
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\Newtonsoft.Json.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Net.Http.Formatting.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Web.Cors.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Web.Http.Cors.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Web.Http.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Web.Http.WebHost.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Web.Http.Cors.xml
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\Newtonsoft.Json.xml
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Net.Http.Formatting.xml
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Web.Http.xml
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\System.Web.Http.WebHost.xml
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\es\System.Web.Http.resources.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\obj\Debug\WebApi5953.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta\WebApi5953\obj\Debug\WebApi5953.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\WebApi5953\obj\Debug\WebApi5953.csproj.CopyComplete
+D:\Escritorio\Nueva carpeta\WebApi5953\obj\Debug\WebApi5953.dll
+D:\Escritorio\Nueva carpeta\WebApi5953\obj\Debug\WebApi5953.pdb
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\WebApi5953.dll.config
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\WebApi5953.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\WebApi5953.pdb
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\csc.exe
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\csc.exe.config
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\csc.rsp
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\csi.exe
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\csi.exe.config
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\csi.rsp
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.AppContext.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Console.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Globalization.Calendars.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.IO.Compression.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Net.Http.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Net.Sockets.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.ValueTuple.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Xml.XPath.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\vbc.exe
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\vbc.exe.config
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\vbc.rsp
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\VBCSCompiler.exe
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\Newtonsoft.Json.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Net.Http.Formatting.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Web.Cors.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Web.Http.Cors.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Web.Http.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Web.Http.WebHost.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Web.Http.Cors.xml
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\Newtonsoft.Json.xml
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Net.Http.Formatting.xml
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Web.Http.xml
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\System.Web.Http.WebHost.xml
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\es\System.Web.Http.resources.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\obj\Debug\WebApi5953.csproj.AssemblyReference.cache
+D:\Escritorio\Proyecto\WebApi5953CRUD\obj\Debug\WebApi5953.csproj.CoreCompileInputs.cache
+D:\Escritorio\Proyecto\WebApi5953CRUD\obj\Debug\WebApi5953.csproj.CopyComplete
+D:\Escritorio\Proyecto\WebApi5953CRUD\obj\Debug\WebApi5953.dll
+D:\Escritorio\Proyecto\WebApi5953CRUD\obj\Debug\WebApi5953.pdb

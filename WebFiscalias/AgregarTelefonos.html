@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Registrar</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        
+        <script src="https://code.jquery.com/jquery-3.0.0.js"crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="container">
+
+            <div class="row mt-3">
+              <div class="col-12">
+                <form><h1>AGREGAR TELÉFONO</h1>
+                    <input type="hidden" id="txtidtelefono"/>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Código</label>
+                        <output type="text" class="form-control" id="txtidfiscalia" placeholder="">
+                      </div>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Nombre de Fiscalia</label>
+                      <output type="text" class="form-control" id="txtnombre" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Ubicación</label>
+                        <output type="text" class="form-control" id="txtubicacion" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Teléfono</label>
+                        <input type="text" required class="form-control" id="txtnumero" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Extensión</label>
+                        <input type="text" class="form-control" id="txtextension" placeholder="">
+                    </div>
+                    <button type="button" class="btn btn-primary" onclick="GuardarTelefono()">Guardar</button>
+                    <button type="button" class="btn btn-warning" onclick="IrFormularioInicio()">Regresar</button>
+                  </form>
+              </div>
+            </div>
+          </div>
+    </body>
+    <script>
+        var editar = false;
+        window.onload = function() {
+           var id = $.urlParam('id');
+           console.log(id);
+           if(id != null){
+               editar = true;
+               $("#txtidtelefono").val(id);
+               PintarFiscalia(id);
+           }
+        };
+
+        $.urlParam = function(name){
+            var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+            if (results==null) {
+            return null;
+            }
+            return decodeURI(results[1]) || 0;
+        }
+
+        function IrFormularioInicio(){
+            window.location = "Index.html";
+        }
+
+        function PintarFiscalia(idTelefono){
+
+            $.get("http://localhost:63570/api/Telefonos/" + idTelefono)
+            .done(function( response ) {
+                console.log(response);
+                $("#txtidfiscalia").val(response.Id_Fiscalia),
+                $("#txtnombre").val(response.Nombre_Fiscalia),
+                $("#txtubicacion").val(response.Ubicacion)
+            });
+        }
+
+
+        function GuardarTelefono(){
+            var data = {
+                    Id_Fiscalia : $("#txtidfiscalia").val(),
+                    Numero : $("#txtnumero").val(),
+                    Extension : $("#txtextension").val()
+                }
+
+                $.post("http://localhost:63570/api/Telefonos", data)
+                .done(function(response) {
+                    console.log(response);
+                    if(response){
+                        alert("Número registrado con exito");
+                        window.location = "Index.html";
+                    }else{
+                        alert("Error al registrar");
+                    }
+                });
+            }
+                    
+    </script>
+</html>

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Teléfonos</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        
+        <script src="https://code.jquery.com/jquery-3.0.0.js"crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row mb-3 mt-3"></div>
+            <h1>MINISTERIO PÚBLICO</h1>
+            <div class="row mb-3 mt-3">
+                <div class="col-4">
+                    <form>
+                    <button type="button" class="btn btn-warning" onclick="IrFormularioInicio()">Regresar</button>
+                </div>
+            </div>
+        
+            <div class="row">
+                <div class="col-12">
+                  <table class="table table-striped">
+                      <thead>
+                        <tr>
+                          <th scope="col">Teléfono</th>
+                          <th scope="col">Extensión</th>
+                          <th></th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      </tbody>
+                    </table>
+                </div>
+              </div>
+            </div>    
+
+        </div>
+    </body>
+    <script>
+        var editar = false;
+        window.onload = function() {
+           var id = $.urlParam('id');
+           console.log(id);
+           if(id != null){
+               editar = true;
+               $("#txtidfiscalia").val(id);
+               PintarFiscalia(id);
+           }
+        };
+        
+        $.urlParam = function(name){
+            var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+            if (results==null) {
+            return null;
+            }
+            return decodeURI(results[1]) || 0;
+        }
+
+        function IrFormularioInicio(){
+            window.location = "Index.html";
+        }
+
+        function PintarFiscalia(idFiscalia){
+
+            $.get("http://localhost:63570/api/Numeros/" + idFiscalia)
+            .done(function( response ) {
+                console.log(response);
+                $.each( response, function( id, fila ) {
+                    $("<tr>").append(
+                        $("<td>").text(fila.Numero),
+                        $("<td>").text(fila.Extension),
+                        $("<td>").append(
+                            $("<button>").data("id",fila.Id_Telefonos).addClass("btn btn-info btn-sm mr-1 AgregarTelefono").text("Agregar Teléfono").attr({"type":"button"}),
+                                $("<button>").data("id",fila.Id_Telefonos).addClass("btn btn-danger btn-sm eliminar").text("Eliminar Teléfono").attr({"type":"button"})
+                        )
+                    ).appendTo(".table");
+                });
+            });
+            }
+
+            $(document).on('click', '.AgregarTelefono', function () {
+            console.log($(this).data("id"));
+            window.location = "AgregarTelefonos.html?id=" + $(this).data("id");
+            
+            });
+
+            $(document).on('click', '.eliminar', function () {
+            console.log($(this).data("id"));
+
+            $.ajax({
+            method: "DELETE",
+            url: "http://localhost:63570/api/Numeros/" + $(this).data("id")
+            })
+            .done(function( response ) {
+                console.log(response);
+                if(response){
+                    window.location = "Index.html";
+                    alert("Eliminado con exito")
+                }else{
+                    alert("Error al eliminar")
+                }
+            });
+            
+        });
+       
+    </script>
+</html>
